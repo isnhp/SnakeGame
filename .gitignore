@@ -1,0 +1,12 @@
+# 编译输出
+build/
+
+# VS Code
+.vscode/
+
+# Windows 临时文件
+*.exe
+*.obj
+
+# 临时文件
+*.tmp
